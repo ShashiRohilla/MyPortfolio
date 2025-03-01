@@ -3,4 +3,8 @@ Welcome to my portfolio! I am passionate about learining and constantly striving
 
 #Skills I have learned Javascript,HTML,CSS,Java, Python Good communications skills
 
-#Projects 1)Spam-text-classifier 2)My Porfolio 3)Tic-Tac-Toe game
+#Projects 
+1)Spam-text-classifier 
+2)My Porfolio'
+3)Tic-Tac-Toe game
+4)Real time chat App
